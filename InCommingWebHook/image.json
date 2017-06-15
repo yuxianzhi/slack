@@ -1,0 +1,12 @@
+{
+    "attachments": [
+        {
+            "fallback": "Network traffic (kb/s): How does this look? @xzyu - Sent by Julie Dodd - https://datadog.com/path/to/event",
+            "title": "Network traffic (kb/s)",
+            "title_link": "https://datadog.com/path/to/event",
+            "text": "How does this look? @xzyu - Sent by Julie Dodd",
+            "image_url": "https://a.slack-edge.com/66f9/img/api/attachment_example_datadog.png",
+            "color": "#764FA5"
+        }
+    ]
+}
